@@ -8,7 +8,10 @@ If there are scripts, they should be in `script/` directory.
 - 99 or `0x63` - Core, livenet
 - 77 or `0x4D` - Sokol, testnet
 - 78 or `0x4E` - Red, testnet for security testing
-
+- 42 or `0x2A` - Kovan testnet
+- 79 or `0x4F` - Dai testnet
+- 100 or `0x64` - Dai Chain
+- 2109 or `0x83D` - BAT Sandbox
 
 ## Contribution guides
 
